@@ -1,0 +1,9 @@
+{
+  "name": "use_uniqe_id_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rafdul/uniqe_id_generator": "^1.0.0"
+  }
+}
